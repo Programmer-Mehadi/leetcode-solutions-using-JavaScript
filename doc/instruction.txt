@@ -1,1 +1,5 @@
-..
+... Total Target problem : 102 
+
+Problem  list =>  
+1. Rotate the array
+2. 
